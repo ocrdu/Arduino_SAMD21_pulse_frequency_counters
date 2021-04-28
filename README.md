@@ -1,4 +1,4 @@
-## Pulse- and frequencycounter for SAMD21G-based Arduinos
+## Pulse and frequency counters for SAMD21G-based Arduinos
 
 Experimental.
 
